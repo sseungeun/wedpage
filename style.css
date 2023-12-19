@@ -1,0 +1,10 @@
+header{
+    background-image:url(friends.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+}
+body{
+    font-family: 'IBM Plex Sans KR', sans-serif;
+}
